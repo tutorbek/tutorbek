@@ -73,7 +73,7 @@
     &emsp;
 <a href="https://t.me/tutorbek/" target="_blank"><img width="30px" alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" /></a>
     &emsp;
-<a href="https://youtube.com/tutorbek" target="_blank"><img width="30px" alt="YouTube" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" /></a>
+<a href="https://youtube.com/@tutorbek" target="_blank"><img width="30px" alt="YouTube" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" /></a>
     &emsp;
 <a href="https://instagram.com/tutorbek" target="_blank"><img width="30px" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" /></a>
     <br/>
