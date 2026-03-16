@@ -1,4 +1,4 @@
-# Hi, I'm [Ismingiz] 👋
+# Hi, I'm Bekzod 👋
 ☕ Java Developer at heart · Full-Stack in practice
 🌍 Based in Uzbekistan · Building production-grade software
 
