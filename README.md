@@ -1,65 +1,50 @@
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=tutorbek&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-# Hi, I'm Bekzod 👋
-
-🚀 Startup-minded developer from Uzbekistan  
-💡 Building AI-powered products and internet startups  
-🧠 Interested in startups, edtech, and product development  
+# Hi, I'm [Ismingiz] 👋
+☕ Java Developer at heart · Full-Stack in practice
+🌍 Based in Uzbekistan · Building production-grade software
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
 
 ---
 
 ## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
-
----
-
-## 🚀 Current Projects
-
-- 🧑‍🏫 **ustoz.shop** — education platform for teachers and students  
-- 🏠 **joys.uz** — real estate marketplace  
-- 📚 AI powered learning tools  
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub)
 
 ---
 
 ## 🌍 Connect with me
-
-- Telegram  
-- Twitter  
-- Website (coming soon)
+- Telegram
+- LinkedIn
+- Website
 
 ---
 
-⭐ Building useful things for people on the internet.
+☕ Designing and building scalable, production-grade software — backend to frontend.
